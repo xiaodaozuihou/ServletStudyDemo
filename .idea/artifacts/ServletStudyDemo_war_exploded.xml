@@ -1,0 +1,25 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="ServletStudyDemo:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/ServletStudyDemo_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="ServletStudyDemo" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: org.apache.tomcat:tomcat-catalina:8.5.30" />
+          <element id="library" level="project" name="Maven: org.apache.tomcat:tomcat-el-api:8.5.30" />
+          <element id="library" level="project" name="Maven: org.apache.tomcat:tomcat-juli:8.5.30" />
+          <element id="library" level="project" name="Maven: org.apache.tomcat:tomcat-annotations-api:8.5.30" />
+          <element id="library" level="project" name="Maven: org.apache.tomcat:tomcat-api:8.5.30" />
+          <element id="library" level="project" name="Maven: org.apache.tomcat:tomcat-jni:8.5.30" />
+          <element id="library" level="project" name="Maven: org.apache.tomcat:tomcat-coyote:8.5.30" />
+          <element id="library" level="project" name="Maven: org.apache.tomcat:tomcat-util:8.5.30" />
+          <element id="library" level="project" name="Maven: org.apache.tomcat:tomcat-util-scan:8.5.30" />
+          <element id="library" level="project" name="Maven: org.apache.tomcat:tomcat-jaspic-api:8.5.30" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="ServletStudyDemo/web/Web" />
+    </root>
+  </artifact>
+</component>
